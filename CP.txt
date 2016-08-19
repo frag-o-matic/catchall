@@ -1,0 +1,19 @@
+Stuff related to Competitive Programming
+==========================================
+
+https://dev-s.slack.com/archives/computerscience/p1471584064000453
+https://www.quora.com/What-was-Anudeep-Nekkantis-Competitive-Programming-strategy-to-become-35th-in-Global-ranking-in-just-6-7-months/answer/Anudeep-Nekkanti?ref=fb_page
+ 
+https://www.quora.com/How-can-I-understand-and-approach-problems-in-Sphere-Online-Judge-SPOJ
+http://spojtoolkit.com/
+https://www.youtube.com/user/gtprogrammingteam/videos
+https://sites.google.com/site/stevenhalim/
+https://www.youtube.com/playlist?list=PL07B3F10B48592010
+https://web.stanford.edu/class/cs97si/
+https://github.com/BrockCSC/acm-icpc
+https://www3.cs.stonybrook.edu/~skiena/392/
+https://algo.is/competitive-programming-course/
+https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx
+https://www.win.tue.nl/~kverbeek/CPPS/index.html
+https://www.hackerearth.com/notes/getting-started-with-the-sport-of-programming/
+http://codeforces.com/blog/entry/23054
