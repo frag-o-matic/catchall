@@ -1,0 +1,14 @@
+Compile flags: "-ggdb3 -O0"
+
+Specify binary paths:
+file <path-to-unstripped-bin>
+set sysroot <path-to-unstripped-rfs>
+set solib-search-path <path-to-unstripped-libs>
+
+Attach to process:
+gdb -p $(pidof procname)
+
+Remote:
+On target: gdbserver --attach localhost:2345 $(pidof procname)
+On host: target extended-remote tcp:<ip>:<port> or target remote tcp:<ip>:<port>
+Term remote: monitor exit
