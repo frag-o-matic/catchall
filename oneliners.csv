@@ -1,0 +1,2 @@
+cat /proc/$(pidof procname)/maps | awk '{print $6}' | grep '\.so' | sort | uniq,List all shared libraries (*.so) loaded by a given process
+lsof | grep $(pidof procname),List all open files by a given process
