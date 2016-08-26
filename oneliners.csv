@@ -3,5 +3,4 @@ cat /proc/$(pidof procname)/maps | awk '{print $6}' | grep '\.so' | sort | uniq,
 lsof | grep $(pidof procname),List all open files by a given process
 scp user@host.com:/some/remote/directory/file.txt ~/local_file.txt, SCP command to copy file from remote host to local
 while true; do free -m; sleep 2; done, Run free command every 2 seconds forever. watch command also relevant
-bc -l <<< "obase=10; ibase=16; <some_num>" , Convert from hex to decimal
-
+bc -l <<< 'obase=10; ibase=16; some_num' , Convert from hex to decimal
