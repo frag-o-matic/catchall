@@ -9,3 +9,5 @@ AutoKey,text expansion for Linux,about:blank
 PlantUML,UML diagrams in plain-text,http://plantuml.com/
 FreeMind,MindMapping tool written in Java,http://freemind.sourceforge.net
 Multitail,A better version of the UNIX tail command,https://www.vanheusden.com/multitail/
+Doxygen,Code doc generator and rudimentary code visualizer,http://www.stack.nl/~dimitri/doxygen/index.html
+dot & graphviz,langauge and tools for generating diagrams from plain text (like plantUML, more generic),http://www.graphviz.org/
